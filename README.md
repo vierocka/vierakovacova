@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2)](https://www.linkedin.com/in/viera-kovacova-35927877)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4581--4254-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4581-4254)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-publications-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Tz7QKnAAAAAJ)
-[![Email](https://img.shields.io/badge/email-viera.kovacova.ml%40gmail.com-555555?logo=gmail&logoColor=white)](mailto:viera.kovacova.ml@gmail.com)
 
 15+ years of genomics, transcriptomics, microbiome and plasma-protein data, from plants to patients. I co-lead the central bioinformatics unit of a DFG Collaborative Research Centre that supports 15+ groups in theoretical physics, experimental biology and translational medicine; before that I headed bioinformatics R&D at a molecular-diagnostics company through the pandemic. Publications in *The Plant Cell*, *Genome Biology*, *PNAS*, *Nature Communications*, *Cell Host & Microbe* and *Cell Reports* (1,100+ citations, h-index 15, Oct 2026).
 
