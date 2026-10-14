@@ -1,0 +1,1 @@
+Viera Kovacova · computational biologist, University of Cologne · [LinkedIn](https://www.linkedin.com/in/viera-kovacova-35927877) · [viera.kovacova.ml@gmail.com](mailto:viera.kovacova.ml@gmail.com) · [back to the README](https://github.com/vierocka/vierakovacova)
